@@ -5,13 +5,11 @@ Topics Covered :
 
 1.Hoisting in java script.
  Hoisting is JavaScript's default behavior of moving declarations to the top.
- 
-2. Operators in java script.
+ 2. Operators in java script.
  
 Arithmetic operators are symbols that perform mathematical operations 
  on numbers.
- 
- +: Addition
+  +: Addition
  - Subtraction
  *****: Multiplication
  /: Division
