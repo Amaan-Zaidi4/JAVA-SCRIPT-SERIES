@@ -11,15 +11,15 @@ Topics Covered :
 Arithmetic operators are symbols that perform mathematical operations 
 on numbers.
  
- +: Addition
+ +:Addition
  
- - Subtraction
- - 
- *****: Multiplication
+ -:Subtraction
+  
+ *****:Multiplication
    
- /: Division
+ /:Division
  
- %: Remainder
+ %:Remainder
 
 
 Comparison operators compare values and return a Boolean value of true or false.
@@ -31,7 +31,7 @@ Comparison operators compare values and return a Boolean value of true or false.
  <: Checks if the left operand is less than the right operand 
  
  >: Checks if the left operand is greater than the right operand
->
+
  <= Checks if the left operand is less than or equal to the right operand 
  
  >= Checks if the left operand is greater than or equal to the right operand
