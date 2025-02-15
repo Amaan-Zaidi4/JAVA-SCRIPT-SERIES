@@ -86,5 +86,23 @@ switch-Statement: It is used when multiple condition has to be evaluated based o
 
 The prompt() method displays a dialog box that prompts the user for input.
 
+Day 4
+
+Topics Covered :
+
+1. JavaScript Loops
+
+Loops are handy, if you want to run the same code over and over again, each time with a different value.
+
+Often this is the case when working with arrays:
+
+for - loops through a block of code a number of times
+
+for/in - loops through the properties of an object
+
+while - loops through a block of code while a specified condition is true
+
+do/while - also loops through a block of code while a specified condition is true
+
 
 
