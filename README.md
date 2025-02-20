@@ -104,5 +104,31 @@ while - loops through a block of code while a specified condition is true
 
 do/while - also loops through a block of code while a specified condition is true
 
+Day 5
+
+Topics Covered :
+
+1.String Methods
+
+ . index of
+
+ . last index of
+
+ . concatenation
+
+ . slice
+
+ . sub string
+
+ . replace 
+
+ . replace all
+
+ . trim
+
+ . split
+
+ . length
+
 
 
