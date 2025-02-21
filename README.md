@@ -130,5 +130,37 @@ Topics Covered :
 
  . length
 
+Day 6
+
+Topics Covered :
+
+JavaScript Array Methods
+
+.push
+
+.slice
+
+.to string
+
+.shift
+
+.map 
+
+.pop
+
+.filter
+
+.find
+
+.find index 
+
+.includes
+
+.reverse
+
+.unshift
+
+.delete
+
 
 
