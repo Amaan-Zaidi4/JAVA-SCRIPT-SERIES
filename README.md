@@ -162,5 +162,44 @@ JavaScript Array Methods
 
 .delete
 
+Day 7
+
+Topics Covered :
+
+1.JavaScript Functions
+
+A JavaScript function is a block of code designed to perform a particular task.
+A JavaScript function is executed when "something" invokes it (calls it).
+
+. Arrow Functions
+
+ Arrow functions were introduced in ES6.
+ Arrow functions allow us to write shorter function syntax:
+
+. Regular Functions
+
+ Regular functions in JavaScript are defined using the function keyword and 
+ can be named or anonymous. They have their own this context, which 
+ varies depending on how they’re called, and they also have access to 
+ the arguments object for handling passed parameters.
+
+. Function Expression
+
+ A function expression is a way to define a function as part of an expression 
+ making it versatile for assigning to variables, passing as arguments, or 
+ invoking immediately.
+
+2.Alerts
+
+ The alert() method displays an alert box with a message and an OK button.
+ The alert() method is used when you want information to come through to 
+ the user.
+
+3.Parameters And Arguments
+
+ Function parameters are the names listed in the function definition.
+ Function arguments are the real values passed to (and received by) the 
+ function.
+
 
 
