@@ -207,14 +207,14 @@ Topics Covered :
 
 1. JavaScript Objects
 
- Objects are variables too. But objects can contain many values.
+   Objects are variables too. But objects can contain many values.
  
-3. spread operator
+2. spread operator
 
- The spread operator in JavaScript is a syntax introduced in ECMAScript 6 
- (ES6) that allows you to spread the elements of an iterable (such as arrays, 
- strings, or objects), into another iterable or function call. It is denoted by 
- three dots “ ... ”
+   The spread operator in JavaScript is a syntax introduced in ECMAScript 6 
+   (ES6) that allows you to spread the elements of an iterable (such as arrays, 
+   strings, or objects), into another iterable or function call. It is denoted by 
+   three dots “ ... ”
 
 
 
