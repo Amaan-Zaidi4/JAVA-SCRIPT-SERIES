@@ -216,5 +216,47 @@ Topics Covered :
    strings, or objects), into another iterable or function call. It is denoted by 
    three dots “ ... ”
 
+Day 9
+
+Topics Covered :
+
+1. Map Object Methods and Properties
+
+ * set(key, value) – Adds a key/value pair to a Map
+  
+ * get(key) – Retrieves a value from a Map (returns undefined if key doesn't exist)
+   
+ * has(key) – Checks if a Map has a specific key
+   
+ * delete(key) – Removes a specific key from a Map
+   
+ * clear() – Removes all items from a Map
+   
+ * keys() – Returns all keys in a Map
+
+ * values() – Returns all values in a Map
+   
+ * entries() – Returns all keys and values in a Map
+   
+ * size – Returns the number of items in Map
+
+ 2. Set Object Methods and Properties
+
+ * add(value) – Adds a value to a Set
+   
+ * has(value) – Checks if a Set contains a specific value
+   
+ * delete(value) – Removes a specific value from a Set
+   
+ * clear() – Removes all items from a Set
+   
+ * keys() – Returns all values in a Set
+   
+ * values() – Returns all values in a Set
+   
+ * entries() – Returns all values in a Set as [value, value] array
+   
+ * size – Returns the number of items in Set
+
 
 
