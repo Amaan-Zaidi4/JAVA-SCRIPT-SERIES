@@ -258,5 +258,18 @@ Topics Covered :
    
  * size – Returns the number of items in Set
 
+   📚 JAVA SCRIPT SERIES
+   
+   ✅ Day 10
+
+ Topic Covered :
+ 
+ Document Object Model (DOM)
+ 
+ The Document Object Model (DOM) is a programming interface that allows 
+ JavaScript to interact with HTML documents. The DOM represents a web 
+ page as a tree structure, with each branch ending in a node that contains 
+ objects.
+
 
 
