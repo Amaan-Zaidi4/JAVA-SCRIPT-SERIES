@@ -258,9 +258,7 @@ Topics Covered :
    
  * size – Returns the number of items in Set
 
-   📚 JAVA SCRIPT SERIES
-   
-   ✅ Day 10
+ ✅ Day 10
 
  Topic Covered :
  
